@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download Videos from 123movies for Free (Chrome Browser Extension Method)
 
+<a href="https://www.youtube.com/watch?v=Z4fnEQFZ8Ns" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/youtube-thumbnail-Z4fnEQFZ8Ns.jpg" width="700px">
+</a>
+
 If you need a simple way to save videos from supported browser pages, 123movies Downloader gives you a direct workflow: install the extension, open a supported video page, let the extension detect available video files, and choose the quality you want to download.
 
 This guide turns the video walkthrough into a clear step-by-step process for setting up the browser extension and using it correctly.
@@ -48,9 +52,7 @@ serpapps 123movies downloader
 
 Look for the GitHub repository at:
 
-```text
-https://github.com/serpapps/123movies-downloader
-```
+[serpapps/123movies-downloader](https://github.com/serpapps/123movies-downloader)
 
 Open the repository, then find the **Releases** section on the right side of the GitHub page.
 
